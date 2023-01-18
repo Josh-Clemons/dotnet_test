@@ -1,0 +1,15 @@
+/Users/joshclemons/Documents/Prime/dotnet/MyApp/bin/Debug/net7.0/MyApp
+/Users/joshclemons/Documents/Prime/dotnet/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/joshclemons/Documents/Prime/dotnet/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/joshclemons/Documents/Prime/dotnet/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/joshclemons/Documents/Prime/dotnet/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/joshclemons/Documents/Prime/dotnet/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/Users/joshclemons/Documents/Prime/dotnet/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshclemons/Documents/Prime/dotnet/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/joshclemons/Documents/Prime/dotnet/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/joshclemons/Documents/Prime/dotnet/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/joshclemons/Documents/Prime/dotnet/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/joshclemons/Documents/Prime/dotnet/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/joshclemons/Documents/Prime/dotnet/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/joshclemons/Documents/Prime/dotnet/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/joshclemons/Documents/Prime/dotnet/MyApp/obj/Debug/net7.0/ref/MyApp.dll
